@@ -1,0 +1,13 @@
+# Ignore environment files
+.env
+backend/.env
+frontend/.env
+
+# Ignore dependencies
+backend/vendor/
+frontend/vendor/
+frontend/node_modules/
+
+# Ignore IDE/OS files
+.DS_Store
+.vscode/
